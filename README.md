@@ -9,7 +9,7 @@ Using Tableau to create a data story
 * Tableau Public version 2021.4
 
 ## Project Overview
-In an effort to establish a bike-sharing program in Des Moines modeled on the success of Citi Bike in NYC, August 2019 trip data was analyzed to better understand how such a program might work in Iowa. Findings were consolidated into a story format, available at <br> [Tableau - NYC CitiBike Challenge](https://public.tableau.com/app/profile/stephanie8808/viz/NYCCitibikeChallenge_16487439334420/NYCCitiBikeChallenge?publish=yes).
+In an effort to establish a bike-sharing program in Des Moines modeled on the success of Citi Bike in NYC, August 2019 trip data was analyzed to better understand how such a program might work in Iowa. Findings were consolidated into a story format, available at [Tableau - NYC CitiBike Challenge](https://public.tableau.com/app/profile/stephanie8808/viz/NYCCitibikeChallenge_16487439334420/NYCCitiBikeChallenge?publish=yes).
 
 ## Project Steps
 *	Import data into Tableau.
