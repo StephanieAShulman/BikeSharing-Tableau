@@ -10,5 +10,10 @@ Using Tableau to create a data story
 ## Project Steps
 *	Import data into Tableau.
 *	Create and style worksheets, dashboards, and stories in Tableau.
-*	Use Tableau worksheets to display data in a professional way.
-*	Portray data accurately using Tableau dashboards.
+*	Use Tableau worksheets and dashboards to demonstrate findings.
+
+## Final Story
+Data findings were consolidated into a story format, available at [Tableau - NYC CitiBike Challenge](https://public.tableau.com/app/profile/stephanie8808/viz/NYCCitibikeChallenge_16487439334420/NYCCitiBikeChallenge?publish=yes).
+
+
+
