@@ -33,4 +33,4 @@ Because usage appeared specific to the traits of New York commercial life, two a
 1. A heatmap of bike usage on the weekends specifically, when usage is more likely related to recreational use.
 2. A comparison of time spent by customers (rather than subscribers) in comparison to destinations.
 
-If these displays demonstrate infrequent users are plentiful enough to sustain a recreational program, Des Moines is in for some wheelie good fun.
+If these displays demonstrate infrequent users are plentiful enough to sustain a recreational program, Des Moines is in </br> for some wheelie good fun.
