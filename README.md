@@ -29,8 +29,9 @@ With over 2 million bike trips completed in August 2019, bike usage appeared ali
 
 ![BikeRepairs](https://user-images.githubusercontent.com/30667001/161118753-51bcfd10-f0df-4792-8f4f-4bb374899ee6.png)
 
-Because usage appeared specific to the traits of New York commercial life, additional considerations for Des Moines-specific adaption may include:
+Analyzed usage appears specific to the traits of New York commercial life. /br>
+Additional considerations for Des Moines-specific adaption may include:
 1. A heatmap of bike usage on the weekends specifically, when recreational use is more likely.
 2. A comparison of time spent by customers (rather than subscribers) in comparison to destinations.
 
-If these displays demonstrate infrequent users are plentiful enough to sustain a recreational program, Des Moines is in for some wheelie good fun.
+If the additional findings demonstrate non-subscribers are plentiful enough to sustain a recreational program, Des Moines is in for some wheelie good fun.
